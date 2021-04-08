@@ -69,7 +69,6 @@ export default {
                 {nombre : 'Colonia', valor : 'colonia'},
             ],
             resultado : [],
-
         };
     },
     methods : {
