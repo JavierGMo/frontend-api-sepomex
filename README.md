@@ -2,6 +2,9 @@
 
 Fron-End para consumir la API de SEPOMEX
 
+## Clonar el proyecto:
+Clona el proyecto con: `git clone https://github.com/JavierGMo/frontend-api-sepomex`
+
 ## Configuracion para correr el proyecto en local
 
 Instalar dependencias:
