@@ -2,6 +2,7 @@
     <v-container>
         <v-container>
             <h2>Crear nuevo registro</h2>
+            <p>Este modulo no esta en funcion por ahora:</p>
         </v-container>
         <v-container>
             <v-form @submit.prevent="crear">
